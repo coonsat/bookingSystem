@@ -1,8 +1,7 @@
-# bookingSystem
-Learning piece by piece to make an online tennis centre booking system
+# general purpose bookingSystem
 
-My tennis club still lives in the 70s where they do only paper booking systems. I'm using this as a project to try and develop one for my one
-that can possibly cater to what they need. 
+Group project for database systems whereby we will develop a general purpose booking system. 
 
-No rules for this so far and if you want to committ or fork this project (if it will be good enough) then go right ahead. No skin
-off my back. 
+The intended case in this particular application is a dentist practice booking system.
+
+Please add a small note where changes to existing code has been made.
